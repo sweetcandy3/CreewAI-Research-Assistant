@@ -68,13 +68,7 @@ crewai-research-assistant/
 - OpenAI/GROQ API keys  
 - Exa API key  
 - Streamlit installation  
-
-## 🚀 Quick Start  
-1. Clone repo:  
-```bash  
-git clone https://github.com/billy-enrizky/crewai-research-assistant/
-cd crewai-research-assistant 
-```  
+  
 
 2. Set up virtual environment:  
 ```bash  
