@@ -1,4 +1,4 @@
-# 🔍 CrewAI Research Assistant  
+# 🔍 InSight Forge Research Assistant  
 
 An advanced research assistant powered by CrewAI, Exa, and Streamlit, designed to explore any topic using AI agents.  
 
