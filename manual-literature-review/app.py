@@ -18,7 +18,7 @@ from source.utils.output_handler import capture_output
 #--------------------------------#
 # Configure the page
 st.set_page_config(
-    page_title="CrewAI Research Assistant",
+    page_title="InSight Forge",
     page_icon="Detective",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -34,7 +34,7 @@ st.logo(
 # Main layout
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
-    st.title("CrewAI Research Assistant", anchor=False)
+    st.title("InSight Forge", anchor=False)
     
 # Render sidebar and get selection (provider and model)
 selection = render_sidebar()
