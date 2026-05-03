@@ -1,2 +1,2 @@
-# InSight Forge-Research-Assistant
-ai bassed research assisstant to help with reeearch
+# InSight Forge
+It is AI-based Research Assistant that helps with research by analysing various research papers and providing insights on them.
